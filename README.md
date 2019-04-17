@@ -5,4 +5,3 @@ pandas and its exploration in Python
 
 pandas
 
-# Datasets 
